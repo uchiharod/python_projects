@@ -1,0 +1,6 @@
+print("I made it!")
+print("===========")
+print("If I only knew it would be this easy")
+print("===========")
+print("I would have taken up Python years ago")
+print("===========")
